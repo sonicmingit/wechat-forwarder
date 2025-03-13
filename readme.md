@@ -34,7 +34,16 @@
 
 ---
 
+### 使用
+```
+docker run -d -p 5000:5000 --restart=always --name wechat-forwarder sonicming/wechat-forwarder
+```
+
+
+
 ## 📦 部署说明
+
+
 
 ### 1️⃣ 克隆项目
 
